@@ -1,5 +1,4 @@
 # CABLE
----
 ## The Computer Architecture with a Badditude Larger than Everybody else's
 
 
