@@ -4,7 +4,7 @@
 
 ### Some Warnings Before you Begin
 ---
-    > The CABLE instruction set is known for being a complicated mess, and it's only made worse by the sassy CABLE assembler's harsh comments. 
+> The CABLE instruction set is known for being a complicated mess, and it's only made worse by the sassy CABLE assembler's harsh comments. 
 
 ### To Fix
 ---
