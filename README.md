@@ -1,5 +1,5 @@
 # CABLE
-## The Computer Architecture with a Badditude Larger than Everybody else's
+## The Computer Architecture with a Baditude Larger than Everybody else's
 
 
 ### Some Warnings Before you Begin
